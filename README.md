@@ -17,7 +17,7 @@ The R and Power BI assignment analyzes Hollywood movies (2007-2012). Utilizing R
 - **Power BI**
 
 ## How to use
-- **Clone the Repository: git clone https://github.com/amoahben35/R-and-Power-BI-Assignment.gitcd R-and-Power-BI-Assignment**
+- **Clone the Repository: git clone [https://github.com/amoahben35/R-and-Power-BI-Assignment.gitcd R-and-Power-BI-Assignment](https://github.com/amoahben35/R-Power-BI-Assignment?tab=readme-ov-file)**
 - **Install Required Packages: install.packages("tidyverse")**
 - **Run the Code: Open the R script and execute each step to analyze the Hollywood movies dataset.**
 - **Power BI Dashboard: Import the exported clean dataset into Power BI. Design visualizations based on the provided client requirements and brand colors.**
