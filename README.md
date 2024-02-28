@@ -1,4 +1,4 @@
-# R-Power-BI-Assignment
+# R-Power & BI-Assignment
 
 **Table of Contents**
 **Overview**
