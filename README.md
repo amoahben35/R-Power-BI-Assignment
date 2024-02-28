@@ -24,8 +24,11 @@ The R and Power BI assignment analyzes Hollywood movies (2007-2012). Utilizing R
 
 ## Contributions
 Contributions are welcome! If you have suggestions, improvements, or additional features to propose, please open an issue or submit a pull request. Your input is valuable in enhancing the project.
-
 Feel free to explore, analyze, and contribute to making the Hollywood movie analysis even more insightful!
+
+<img width="679" alt="image" src="https://github.com/amoahben35/R-Power-BI-Assignment/assets/156099906/86e16126-55a2-453b-b52a-9a04c5dbb779">
+
+
 
 
 
